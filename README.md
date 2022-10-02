@@ -19,4 +19,6 @@ Code for a face recognition engine based on Support Vector Machines to detect fa
 ![](screenshots/3.png)
 ![](screenshots/4.png)
 
+## References
+- [Face-Detection-using-SVM](https://github.com/siddarthsaxena27/Face-Detection-using-SVM)
 
